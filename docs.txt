@@ -1,1 +1,3 @@
+
+Contenido de docs.txt en rama A
 A ver que hay aqui de docs.txt en rama B
