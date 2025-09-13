@@ -1,1 +1,2 @@
-Contenido de docs.txt en rama A
+
+A ver que hay aqui en docs.txt en rama B
